@@ -9,7 +9,7 @@ Software Engineer @ Zoho Corporation
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/behance.png" alt="behance" />](https://www.behance.net/srihari96) [<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/sri-hari200310/)
-- 😄 Pronouns: Techie
+- 😄 Pronouns: Designer & Developer
 - ⚡ Fun fact: I know little bit Japanese.
 
 
