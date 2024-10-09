@@ -16,7 +16,7 @@ Software Engineer @ Zoho Corporation
 ### I code in
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/flutter.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>     <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/java"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>     <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/java.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/><img width="50" height="50" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/>
